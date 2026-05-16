@@ -11,3 +11,4 @@ Special thanks to all the people who helped to develop this project:
 - [tirkarthi](https://github.com/tirkarthi)
 - [Yimura](https://github.com/Yimura)
 - [30be](https://github.com/30be)
+- [awatne](https://github.com/awatne)
