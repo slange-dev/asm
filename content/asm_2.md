@@ -482,7 +482,7 @@ After building the program, we can run it with:
 
 ```bash
 ~$ ./program
-Sum is correct
+The sum is correct!
 ```
 
 Now let's go through the source code of our program. First of all, there is the `.data` section with three variables:
