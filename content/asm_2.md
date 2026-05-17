@@ -211,7 +211,7 @@ In the usual [RAM](https://en.wikipedia.org/wiki/Random-access_memory) model, we
 
 The stack grows downwards, from higher memory addresses to lower ones. So, when we refer to `top of the stack`, we actually mean the memory location with the lowest address in the current stack. In other words, the top of the stack is a pointer to the element with the lowest address. The general purpose register `rsp` should point to the top of the stack. 
 
-In the [system call](#system-call) section, we saw that the first six arguments of a system call are passed in the general purpose registers. According to the calling conventions document:
+In the [system call](#system-calls) section, we saw that the first six arguments of a system call are passed in the general purpose registers. According to the calling conventions document:
 
 > System-calls are limited to six arguments, no argument is passed directly on the stack.
 
